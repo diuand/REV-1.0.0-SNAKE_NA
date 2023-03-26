@@ -3,7 +3,7 @@ window.onload = init
 // size of canvas
 var rows = 30
 var cols = 30
-var block_size = 22
+var block_size = 18
 var context 
 var board
 
