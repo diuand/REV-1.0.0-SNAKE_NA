@@ -1,0 +1,41 @@
+body{
+  background-color: rgb(104, 97, 97);
+  position: relative;
+  margin: 0;
+  text-align: center;
+  font-family: fantasy;
+  margin-top: 100px;
+}
+.Score{
+  position: relative;
+  color: rgba(22, 19, 19, 0.884);
+  font-size: 30px;
+  text-align: center;
+  
+}
+canvas{
+  box-shadow: 5px 5px 1000px rgb(255, 89, 89);
+  border: 2mm ridge rgb(253, 75, 75);
+}
+.end_game{
+  color: rgba(22, 19, 19, 0.884);
+  font-size: 30px;
+}
+.reload{
+  color:rgb(253, 75, 75);
+  background-color:rgba(75, 63, 63, 0.884);
+  border: 2px solid rgb(253, 75, 75);
+  padding: 13px 20px;
+  text-align: center;
+  
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.reload:hover{
+  color:rgb(253, 92, 92);
+  background-color:rgba(102, 86, 86, 0.884);
+  border: 2px solid rgb(253, 92, 92);
+}
