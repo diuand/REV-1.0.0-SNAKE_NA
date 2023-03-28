@@ -1,7 +1,7 @@
 
 # Snake / REV-1.0.0-SNAKE_NA
 
-A Snake Game maade in javascript
+A Snake Game made in javascript
 ## Demo
  -  Soon
 
