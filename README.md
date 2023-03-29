@@ -3,7 +3,7 @@
 
 A Snake Game made in javascript
 ## Demo
- -  Soon
+ - [Live link](https://diuand.github.io/Snake/)
 
 
 ## The Latest Revision's Images
